@@ -1,3 +1,10 @@
+#Comentario añadido por Álvaro
+#¡Holi! Te añado un chiste malo:
+# - ¡Jesús! ¿Qué tal la última cena? ¿Salió cara?
+# - No... Salió cruz.
+
+
+
 # -*- coding: utf-8 -*-
 """ANKARA.ipynb
 
